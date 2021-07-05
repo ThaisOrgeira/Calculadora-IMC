@@ -3,5 +3,5 @@
 <strong> Nesse repositorio eu recriei uma Calculadora de IMC utilizando Javascript.</strong>
 
 
- <img alt="IMC" src="https://j.gifs.com/VvPKX9.gif">
+ <img alt="pokedex" src="https://j.gifs.com/PjZOj2.gif">
 
